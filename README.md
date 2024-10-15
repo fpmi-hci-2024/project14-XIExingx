@@ -9,6 +9,7 @@
 ## Документация
 
 * [Лабораторная работа 1](https://docs.google.com/document/d/1l5bCsZu9fQzwpwKamYv2_st3e9cp5ynC/edit?usp=sharing&ouid=109101571067466781060&rtpof=true&sd=true)
+* [Лабораторная работа 2](https://docs.google.com/document/d/1OlrhMuCw7eh4w6w2CRyLvY30udNy6FO1/edit?usp=sharing&ouid=109101571067466781060&rtpof=true&sd=true)
 
 # Installation
 
